@@ -1,4 +1,4 @@
-set1
+                                                set 1
 
 import pandas as pd
 import numpy as np
@@ -79,7 +79,7 @@ print(f'Percentage Improvement between Model 1 and Model 2: {percentage_improvem
 
 
 
-set2
+                                                   set 2
 
 import pandas as pd
 import numpy as np
@@ -195,7 +195,7 @@ print(f'Variance Estimation: {variance_estimate}')
 print(f'Random Sample: {random_sample}')
 
 
-set3 
+                                              set 3 
 
 import pandas as pd
 import numpy as np
@@ -294,7 +294,7 @@ print(subject_frequency)
 print(f'\nMost Popular Subject: {most_popular_subject}')
 
 
-set 4
+                                                    set 4
 
 import pandas as pd
 import numpy as np
@@ -408,7 +408,7 @@ prediction = knn_classifier.predict([new_patient_features])
 print(f'Predicted Medical Condition: {prediction[0]}')
 
 
-set5
+                                                       set 5
 
 import pandas as pd
 import numpy as np
@@ -523,7 +523,7 @@ print(f'Total Sales for the Year: {total_sales}')
 print(f'Percentage Increase from Q1 to Q4: {percentage_increase}%')
 
 
-set6
+                                                     set 6
 
 import pandas as pd
 
@@ -632,7 +632,7 @@ print(f'Recall: {recall}')
 print(f'F1 Score: {f1}')
 
 
-set 7
+                                                        set 7
 
 import pandas as pd
 
@@ -732,7 +732,7 @@ print(f'Precision: {precision}')
 print(f'Recall: {recall}')
 print(f'F1 Score: {f1}')
 
-set8
+                                                   set 8
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -825,7 +825,7 @@ plt.show()
 print(f'Correlation Coefficient: {correlation_coefficient}')
 
 
-set9
+                                                            set 9
 
 import pandas as pd
 
@@ -924,7 +924,7 @@ print(f'City with Highest Temperature Range: {city_highest_range}')
 print(f'City with Most Consistent Temperature: {city_most_consistent}')
 
 
-## set 10
+                                                        set 10
 
 
 import pandas as pd
